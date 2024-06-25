@@ -160,7 +160,7 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./node_modules/babel-loader/lib/index.js?!./node_modules/conditional-compile-loader/index.js?!../../renderity/wasm-wrapper/src/threads/thread3/thread3.1.worker.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./node_modules/babel-loader/lib/index.js?!./node_modules/@open-wc/webpack-import-meta-loader/webpack-import-meta-loader.js!./node_modules/conditional-compile-loader/index.js?!../../renderity/wasm-wrapper/src/threads/thread3/thread3.1.worker.js");
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -1694,10 +1694,10 @@ Object.assign(WasmWrapper.prototype, _cxx_specific__WEBPACK_IMPORTED_MODULE_2__[
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/conditional-compile-loader/index.js?!../../renderity/wasm-wrapper/src/threads/thread3/thread3.1.worker.js":
-/*!**************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--5-0!./node_modules/conditional-compile-loader??ref--5-1!/Users/Denis/reps/renderity/wasm-wrapper/src/threads/thread3/thread3.1.worker.js ***!
-  \**************************************************************************************************************************************************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/@open-wc/webpack-import-meta-loader/webpack-import-meta-loader.js!./node_modules/conditional-compile-loader/index.js?!../../renderity/wasm-wrapper/src/threads/thread3/thread3.1.worker.js":
+/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--5-0!./node_modules/@open-wc/webpack-import-meta-loader/webpack-import-meta-loader.js!./node_modules/conditional-compile-loader??ref--5-2!/Users/Denis/reps/renderity/wasm-wrapper/src/threads/thread3/thread3.1.worker.js ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
